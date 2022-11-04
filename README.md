@@ -1,4 +1,7 @@
 # project2
+
+Comment: I love your design, good structure and beautiful pages.  It is pretty useful as well. And the backend logic works in smart way, eg session express, MongoDB's data is connect perfectly from users' input to backend, then connect fluently to show on the frontend. Great job!!
+
 * Author: Gaoxiang Zhang & Ming Hsiu Lee
 
 * Project Objective:
